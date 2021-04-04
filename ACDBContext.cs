@@ -8,6 +8,7 @@ namespace EF_Reverse_Engineering
 {
     public partial class ACDBContext : DbContext
     {
+        //Scaffold-DbContext "Server=(localdb)\ProjectsV13;Database=ACDB;Trusted_Connection=True;" Microsoft.EntityFrameworkCore.SqlServer
         public ACDBContext()
         {
         }
